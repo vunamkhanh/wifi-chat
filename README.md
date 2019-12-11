@@ -1,2 +1,2 @@
 # wifi-chat
-Chat app through iOS mesh wifi network
+Chat app using iOS mesh wifi network.
